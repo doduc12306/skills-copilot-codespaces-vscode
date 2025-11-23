@@ -17,6 +17,7 @@
       "tintColor": "#fc2444",
       "category": "other",
       "screenshots": [],
+      "iconURL": "https://raw.githubusercontent.com/SideStore/branding/main/app-icons/sidestore.png",
       "versions": [
         {
           "downloadURL": "https://github.com/LeeAoshuang/ManicEmu/releases/download/v1.6.0/ManicEMU.v1.6.0.SideloadJIT.ipa",
@@ -27,16 +28,7 @@
           "minOSVersion": null
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Manic EMU requires the use of Bluetooth functionality to enable communication features for certain games.",
-          "NSCameraUsageDescription": "Camera access required to capture photos for custom game covers in Manic EMU",
-          "NSPhotoLibraryAddUsageDescription": "Manic EMU requires photo library access to save game screenshots and create custom game covers",
-          "NSMicrophoneUsageDescription": "Microphone access required for full Nintendo DS game functionality in Manic EMU",
-          "NSPhotoLibraryUsageDescription": "Manic EMU requires photo library access to save screenshots and select images for game covers"
-        }
-      },
+      "appPermissions": { ... },
       "patreon": {}
     }
   ],
