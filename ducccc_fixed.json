@@ -1,0 +1,74 @@
+{
+  "name": "ducccc",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://raw.githubusercontent.com/SideStore/branding/main/app-icons/sidestore.png",
+  "website": "https://altstudio.app",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "ManicEmu",
+      "bundleIdentifier": "com.aoshuang.manicemu",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "tintColor": "#fc2444",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/LeeAoshuang/ManicEmu/releases/download/v1.6.0/ManicEMU.v1.6.0.SideloadJIT.ipa",
+          "size": 101200000,
+          "version": "1.6.0",
+          "date": "2025-11-23T17:54:00+07:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Manic EMU requires the use of Bluetooth functionality to enable communication features for certain games.",
+          "NSCameraUsageDescription": "Camera access required to capture photos for custom game covers in Manic EMU",
+          "NSPhotoLibraryAddUsageDescription": "Manic EMU requires photo library access to save game screenshots and create custom game covers",
+          "NSMicrophoneUsageDescription": "Microphone access required for full Nintendo DS game functionality in Manic EMU",
+          "NSPhotoLibraryUsageDescription": "Manic EMU requires photo library access to save screenshots and select images for game covers"
+        }
+      },
+      "iconURL": "https://raw.githubusercontent.com/SideStore/branding/main/app-icons/sidestore.png"
+    },
+    {
+      "name": "Folium-iOS",
+      "bundleIdentifier": "com.antique.Folium-iOS",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "tintColor": "#64dc7c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/doduc12306/skills-copilot-codespaces-vscode/releases/download/m/Folium.ipa",
+          "size": 24300000,
+          "version": "1.32",
+          "date": "2025-11-23T17:53:00+07:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Folium may require access to your Bluetooth for all cores where it is used for controller input",
+          "NSCameraUsageDescription": "Folium may require access to your Camera for cores such as Cytrus, where it is used for game and system functionality",
+          "NSLocalNetworkUsageDescription": "Folium may require access to your Local Network for cores such as Cytrus, where it is used for certain game and system functionality",
+          "NSMicrophoneUsageDescription": "Folium may require access to your Microphone for cores such as Cytrus and Grape, where it is used for game and system functionality",
+          "NSMotionUsageDescription": "Folium may require access to your Motion & Fitness for cores such as Cytrus and Grape, where it is used for game and system functionality"
+        }
+      },
+      "iconURL": "https://raw.githubusercontent.com/SideStore/branding/main/app-icons/sidestore.png"
+    }
+  ],
+  "news": []
+}
